@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Vault",
+  "description": "Local authorized Wi-Fi connection manager with 10-million line memory-efficient credential streaming and batch indexing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
